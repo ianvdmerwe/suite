@@ -3,6 +3,10 @@ Having slow links to your page assets can severely affect the loading time of yo
 
 # How do I fix this ?
 
+* Use a CDN for better caching and faster response and load times due to reduced latency.
+
+Other options to consider include:
+
 * Use image sprites.
 * Optimize image files (compression).
 * Reduce HTTP requests for resources.
@@ -20,6 +24,7 @@ Having slow links to your page assets can severely affect the loading time of yo
 
 # Resources
 
+* [Why use a CDN](https://gtmetrix.com/why-use-a-cdn.html)
 * [Prefetching, preloading, prebrowsing
 ](https://css-tricks.com/prefetching-preloading-prebrowsing/)
 * [Web Assets - Tips for Better Organization and Performance](http://code.tutsplus.com/articles/web-assets-tips-for-better-organization-and-performance--net-33950)

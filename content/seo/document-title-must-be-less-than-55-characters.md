@@ -1,4 +1,4 @@
-Your HTML5 document title defined in `<title></title>` tags will show up in SERPs (Search Engine Result Pages). If they are too long, they will truncated and will not behave as you intended. They might be truncated missing out on important keywords but mostly they will just look weird and cause humans not to click on them.
+Your HTML5 document title defined in `<title></title>` tags will show up in SERPs (Search Engine Result Pages). If they are too long, they will be truncated and will not behave as you intended. They might be truncated missing out on important keywords but mostly they will just look weird and cause humans not to click on them.
 
 If your titles are less than 55 characters it should display correctly in SERP's most of the time.
 

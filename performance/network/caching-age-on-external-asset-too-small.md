@@ -6,4 +6,4 @@ Caching of at least two days in the future. If the headers can't be changed, bec
 
 # Resources
 
-* [Webmasters Stackexchange - Cace external static scripts (http://webmasters.stackexchange.com/questions/16534/cache-external-static-scripts)
+* [Webmasters Stackexchange - Cace external static scripts] (http://webmasters.stackexchange.com/questions/16534/cache-external-static-scripts)

@@ -6,6 +6,8 @@ If you *want* to serve on HTTP then you shouldn't have HTTPS as it costs more an
 
 Following that logic it is probable that you have mistakenly not enforced HTTPS for this page.
 
+A more technical reason for not doing this is that search engines will see it as duplicate content. You get penalised for this in the ranking as it seems like deliberate spam.
+
 # How do I fix this ?
 
 Force the use of your HTTPS server:

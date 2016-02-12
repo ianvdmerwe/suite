@@ -10,7 +10,7 @@ If your titles are less than 55 characters it should display correctly in SERP's
 
 # How do I fix this ?
 
-Make sure that your titles do not exceed 155 characters. You might have to ease on your keyword use and keep only the most relevant. Use [Passmarked](http://passmarked.com) to check this for you :)
+Make sure that your titles do not exceed 55 characters. You might have to ease on your keyword use and keep only the most relevant. Use [Passmarked](http://passmarked.com) to check this for you :)
 
 # Resources
 

@@ -2,8 +2,21 @@ You used a keyword in `rel` that is not recognised. The resource might fail to l
 
 # How do I fix this ?
 
-Quick guide on how to fix it. Keep it as easy as possible. Keep the information light and as general as possible.
-Keep detailed explanations for the rest of the document.
+Make sure that you haven't misspelled the keyword or use a recognised keyword instead. Currently you can use the following:
+
+* alternate
+* author
+* help
+* icon
+* license
+* next
+* nofollow
+* noreferrer
+* prefetch
+* prev
+* search
+* stylesheet
+* tag
 
 # Resources
 

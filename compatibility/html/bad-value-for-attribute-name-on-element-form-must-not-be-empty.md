@@ -12,7 +12,7 @@ It should be:
 
 # How do I fix this ?
 
-The `name` attribute must not be an empty string and it has to be unique.
+This attribute is optional. If the `name` attribute is present then it must not be an empty string and it has to be unique.
 
 # Resources
 

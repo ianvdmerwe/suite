@@ -1,4 +1,4 @@
-Your `robots.txt` is blocking Bing from indexing anything on this page. It is rearely a good idea to block a major search engine from crawling your site. Even if you might dislike them, they are only doing you good. 
+Your `robots.txt` is blocking Bing from indexing anything on this page. It is rarely a good idea to block a major search engine from crawling your site. Even if you might dislike them, they are only doing you good. 
 
 # How do I fix this ?
 

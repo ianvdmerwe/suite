@@ -1,8 +1,10 @@
-The text contained in the `<body>` element of your document is visible to users.
+The text contained in the `<body>` element of your document is visible to users and contains a spelling mistake. 
 
 # How do I fix this?
 
-Edit the source code that generates the HTML page containing the spelling error.
+First, **Passmarked** uses language attribute to pick the language which to spell check against. Ensure that the correct language is set in this regard.
+
+Then edit the source code that generates the HTML page containing the spelling error.
 
 ```html
 <html>

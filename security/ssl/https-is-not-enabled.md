@@ -2,7 +2,7 @@ HTTPS has become a important part of keeping users safe on the web. With new too
 
 While not a issue per-say websites are recommended to look at enabling HTTPs for their users. This might not always be possible but should be strongly considered.
 
-Search engines like Google has also been taking a interest by including SSL as a ranking signal in their algorithm. 
+Search engines like Google have also been taking a interest by including SSL as a ranking signal in their algorithm. 
 
 # How do I fix this ?
 
